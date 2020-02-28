@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Light field file types
+*.png
+*.jsn
+*.json
+*.mat

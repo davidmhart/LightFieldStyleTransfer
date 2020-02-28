@@ -1,4 +1,4 @@
-# Light Field Style Transfer
+# Style Transfer for Light Field Photography
 
 Pytorch implementation of Style Transfer for Light Field Photography (WACV 2020).
 

@@ -2,7 +2,7 @@
 
 Pytorch implementation of Style Transfer for Light Field Photography (WACV 2020).
 
-![Light Field Style Transfer](https://github.com/davidmhart/lightfieldstyletransfer/blob/master/LightFieldExample.jpg)
+![Light Field Style Transfer](https://github.com/davidmhart/LightFieldStyleTransfer/blob/master/example.jpg)
 
 Code for style transfer network modified from [Fast Neural Style Transfer](https://github.com/pytorch/examples/tree/master/fast_neural_style).
 
